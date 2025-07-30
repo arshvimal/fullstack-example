@@ -38,6 +38,6 @@ export class HomeService {
       user: { id: userId },
     }));
     await this.userHomeRelationRepository.save(relations);
-    return { message: 'Updated Successfully' };
+    return { message: 'Updated Successfully!' };
   }
 }
