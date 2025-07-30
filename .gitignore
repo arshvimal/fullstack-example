@@ -1,9 +1,9 @@
 /.vscode
 
 # compiled output
-backend/homellc-api/dist
-backend/homellc-api/node_modules
-backend/homellc-api/build
+backend/dist
+backend/node_modules
+backend/build
 
 # Logs
 logs
